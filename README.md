@@ -7,7 +7,6 @@
 - React-vite latest version
 - Clone the repository
 ```bash
-  https://github.com/tharun067/Agrimitra
   cd Agrimitra
 ```
 ## packages required
